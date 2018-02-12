@@ -1,2 +1,0 @@
-# jamesprogram
-i love coding
